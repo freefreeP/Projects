@@ -5,17 +5,7 @@ It uses an embedded H2 database to store all data in the file system.
 
 ## Running the application
 
-- Building app
-```
-./gradlew build
-```
-
 - Running app
-```
-java -jar build/libs/*.jar
-```
-
-- Or simply
 ```
 ./gradlew bootRun
 ```
